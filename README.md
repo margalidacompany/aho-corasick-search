@@ -26,7 +26,7 @@ This is a Python script that uses the Aho-Corasick algorithm to efficiently sear
 1. Run the script:
 
 ```bash
-python main.py
+python main.py```
 When prompted:
 
 2. Enter the path to the text file you want to search in (e.g. text.txt)
