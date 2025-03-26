@@ -23,11 +23,8 @@ This is a Python script that uses the Aho-Corasick algorithm to efficiently sear
 
 ## How to use
 
-1. Run the script:
+1. Run the script: python main.py
 
-```bash
-python main.py```
-When prompted:
 
 2. Enter the path to the text file you want to search in (e.g. text.txt)
 
